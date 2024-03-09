@@ -16,7 +16,7 @@
       (<a href = "https://teammagnus.net"><b>teammagnus.net</b></a>)&nbsp&nbsp<a href = "https://github.com/TEAM-MAGNUS/MAGNUS">동아리 출석 및 회원 관리 사이트 개발 및 운영, 2022.09 - current</a>  
     </li>
     <li>
-      <a href= "https://github.com/CSID-DGU/2023-2-CECD3-Release-8">장구 연습을 위한 AI 모델 개발, 2023.10 - current</a>
+      <a href= "https://github.com/CSID-DGU/2023-2-CECD3-Release-8">장구 연습을 위한 AI 모델 개발, 2023.10 - 2023.12</a>
     </li>
     <li>
       <a href = "https://github.com/HANSORI-DONGGUK/HANSORI">학과 소모임 사이트 개발, 2021.08 - 2022.09</a>  
