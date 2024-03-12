@@ -13,7 +13,7 @@
       (<a href= "https://dongdle.com"><b>dongdle.com</b></a>)&nbsp&nbsp동아리 관리 플랫폼 <b>"동들"</b> 개발 및 런칭(대표/프론트엔드), 2022.10 - current
     </li>
     <li>
-      (<a href = "https://teammagnus.net"><b>teammagnus.net</b></a>)&nbsp&nbsp<a href = "https://github.com/TEAM-MAGNUS/MAGNUS">동아리 출석 및 회원 관리 사이트 개발 및 운영, 2022.09 - current</a>  
+      (<a href = "https://teammagnus.net"><b>teammagnus.net</b></a>)&nbsp&nbsp<a href = "https://github.com/TEAM-MAGNUS/MAGNUS">동아리 출석 관리 사이트 개발 및 운영, 2022.09 - current</a>  
     </li>
     <li>
       <a href= "https://github.com/CSID-DGU/2023-2-CECD3-Release-8">장구 연습을 위한 AI 모델 개발, 2023.10 - 2023.12</a>
@@ -53,6 +53,23 @@
     <li>
       <a>
         동국대학교 컴퓨터공학과 소모임 활동, 2019.03 - current
+      </a>
+    </li>
+  </ul>
+</details>
+
+<!--수상내역-->
+<details>
+  <summary><b>🏆 Awards</b></summary>
+  <ul>
+    <li>
+      <a>
+        2023년도 겨울 ICIP&캡스톤디자인 결과발표회 <b>인기상 수상</b>, 2023.12
+      </a>
+    </li>
+    <li>
+      <a>
+        동국대학교 캠퍼스타운 입주 경진대회 최종 입주기업 선정 <b></b>, 2023.05
       </a>
     </li>
   </ul>
