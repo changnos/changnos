@@ -11,10 +11,16 @@
   <summary><b>💻 Projects</b></summary>
   <ul>
     <li>
-      (<a href= "https://dongdle.com"><b>dongdle.com</b></a>)&nbsp&nbsp동아리 관리 플랫폼 <b>"동들"</b> 개발 및 런칭(대표/프론트엔드), 2022.10 - current
+      (<a href= "https://dongdle.com"><b>dongdle.com</b></a>)&nbsp&nbsp동아리 관리 플랫폼 <b>"동들"</b> 개발 및 런칭(팀장/프론트엔드), 2022.10 - current
     </li>
     <li>
       (<a href = "https://teammagnus.net"><b>teammagnus.net</b></a>)&nbsp&nbsp<a href = "https://github.com/TEAM-MAGNUS/MAGNUS">동아리 출석 관리 사이트 개발 및 운영, 2022.09 - current</a>  
+    </li>
+    <li>
+      <a>헬프콜 Android 애플리케이션 개발 외주(1차), 2023.11 - 2023.12</a>
+    </li>
+     <li>
+      <a>헬프콜 Android/iOS 애플리케이션 개발 외주(2차), 2024.06 - 2024.09</a>
     </li>
     <li>
       <a href= "https://github.com/CSID-DGU/2023-2-CECD3-Release-8">장구 연습을 위한 AI 모델 개발, 2023.10 - 2023.12</a>
@@ -110,23 +116,31 @@
   </ul>
 </details>
 
-<summary><b>📚 Stacks</b></summary>
-<div align=center> 
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <br>
-</div>
+<details>
+  <summary><b>📚 Stacks</b></summary>
+  <ul>
+    <li>
+      <a>
+        <b>Strong</b>
+        <br/>
+        <a>React / React Native / JavaScript / Node.js / Redux / MySQL</a>
+      </a>
+    </li>
+    <li>
+      <a>
+        <b>Knowledgeable</b>
+        <br/>
+        <a>C++ / Python</a>
+      </a>
+    </li>
+    <li>
+      <a>
+        <b>ETC</b>
+        <br/>
+        <a>Git / Figma / Notion / AWS</a>
+      </a>
+    </li>
+  </ul>
+</details>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changjin0605)](https://solved.ac/changjin0605/)
