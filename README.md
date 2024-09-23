@@ -1,7 +1,5 @@
 ### 이창진
 <a href= "https://dongdle.com">dongdle.com</a>
-<br/>
-<a href="https://www.instagram.com/dongdle_official">@dongdle_official</a>
 
 <a href="https://wooden-tricorne-536.notion.site/Portfolio-8cc1a0154eb14a7a8eb25cb65e639fbf" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zw791116@gmail.com)](mailto:changjini32@gmail.com)
