@@ -15,10 +15,10 @@
       (<a href = "https://teammagnus.net"><b>teammagnus.net</b></a>)&nbsp&nbsp<a href = "https://github.com/TEAM-MAGNUS/MAGNUS">동아리 출석 관리 사이트 개발 및 운영, 2022.09 - current</a>  
     </li>
     <li>
-      <a>헬프콜 Android 애플리케이션 개발 외주(1차), 2023.11 - 2023.12</a>
+      <a>헬프콜 Android 애플리케이션 개발 외주(1차), 2023.11 - 2024.01</a>
     </li>
      <li>
-      <a>헬프콜 Android/iOS 애플리케이션 개발 외주(2차), 2024.06 - 2024.09</a>
+      <a>헬프콜 Android/iOS 애플리케이션 개발 외주(2차), 2024.06 - 2024.08</a>
     </li>
     <li>
       <a href= "https://github.com/CSID-DGU/2023-2-CECD3-Release-8">장구 연습을 위한 AI 모델 개발, 2023.10 - 2023.12</a>
