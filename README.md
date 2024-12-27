@@ -141,3 +141,4 @@
 </details>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changjin0605)](https://solved.ac/changjin0605/)
+![contributions.svg](contributions.svg)
