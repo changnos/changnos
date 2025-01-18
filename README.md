@@ -1,7 +1,5 @@
 ### 이창진
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zw791116@gmail.com)](mailto:changjini32@gmail.com)
-
 <!--프로젝트-->
 <details>
   <summary><b>💻 Projects</b></summary>
